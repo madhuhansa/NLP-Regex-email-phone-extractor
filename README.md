@@ -6,7 +6,7 @@ It contains:
 
 - `contact_extractor.py`: A module with a class that finds emails and phone numbers.
 - `main.py`: A sample script showing how to use the extractor.
-- `README.md`: You're reading it 😊
+- `README.md`: You're reading it 
 
 ---
 
